@@ -1,1 +1,36 @@
 /* write your override styles here */
+/* Override the style for .tag-1 */
+#wall .tag-1 {
+    display: none;
+  }
+  
+  /* Override the style for #tag-2 */
+  #wall #tag-2 {
+    display: none;
+  }
+  
+  /* Override the style for #tag-3 */
+  #wall #tag-3 {
+    display: none;
+  }
+  
+  /* Override the style for #tag-4 */
+  #wall .parent #tag-4 {
+    display: none;
+  }
+  
+  /* Override the style for #tag-5 */
+  #wall .parent #tag-5 {
+    display: none;
+  }
+  
+  /* Override the style for #tag-6 */
+  #wall .parent div #tag-6 {
+    display: none;
+  }
+  
+  /* Override the style for #tag-7 */
+  #wall .parent div #tag-7 {
+    display: none;
+  }
+  
